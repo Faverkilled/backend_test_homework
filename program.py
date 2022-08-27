@@ -1,1 +1,1 @@
-print('Я домашка')
+print("why are you Gae?")
